@@ -1,0 +1,870 @@
+{
+    "page": 2,
+    "per_page": 6,
+    "total": 12,
+    "total_pages": 2,
+    "products": [
+        {
+            "id": 7,
+            "notebook": "notebook",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/Notebook__images/image 34.png"
+        },
+        {
+            "id": 8,
+            "notebook": "notebook",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/Notebook__images/images (1).jpg"
+        },
+        {
+            "id": 9,
+            "notebook": "notebook",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/Notebook__images/images (2).jpg"
+        },
+        {
+            "id": 10,
+            "notebook": "notebook",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/Notebook__images/images (3).jpg"
+        },
+        {
+            "id": 11,
+            "notebook": "notebook",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/Notebook__images/images (4).jpg"
+        },
+        {
+            "id": 12,
+            "notebook": "notebook",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/Notebook__images/images (5).jpg"
+        },
+        {
+            "id": 7,
+            "notebook": "notebook",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/Notebook__images/images (6).jpg"
+        },
+        {
+            "id": 8,
+            "notebook": "notebook",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/Notebook__images/images (7).jpg"
+        },
+        {
+            "id": 9,
+            "notebook": "notebook",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/Notebook__images/images (8).jpg"
+        },
+        {
+            "id": 10,
+            "notebook": "notebook",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/Notebook__images/images (9).jpg"
+        },
+        {
+            "id": 11,
+            "notebook": "notebook",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/Notebook__images/images (10).jpg"
+        },
+        {
+            "id": 12,
+            "notebook": "notebook",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/Notebook__images/images (11).jpg"
+        },
+        {
+            "id": 7,
+            "notebook": "notebook",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/Notebook__images/images (12).jpg"
+        },
+        {
+            "id": 8,
+            "notebook": "notebook",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/Notebook__images/images (13).jpg"
+        },
+        {
+            "id": 9,
+            "notebook": "notebook",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/Notebook__images/images (14).jpg"
+        },
+        {
+            "id": 10,
+            "notebook": "notebook",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/Notebook__images/images (15).jpg"
+        },
+        {
+            "id": 11,
+            "notebook": "notebook",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/Notebook__images/images (16).jpg"
+        },
+        {
+            "id": 12,
+            "notebook": "notebook",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/Notebook__images/images (17).jpg"
+        },
+        {
+            "id": 7,
+            "notebook": "notebook",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/Notebook__images/images.jpg"
+        },
+        {
+            "id": 8,
+            "notebook": "notebook",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/Notebook__images/Без названия (1).jpg"
+        },
+        {
+            "id": 9,
+            "notebook": "notebook",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/Notebook__images/Без названия (2).jpg"
+        },
+        {
+            "id": 10,
+            "notebook": "notebook",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/Notebook__images/Без названия (15).jpg"
+        },
+        {
+            "id": 11,
+            "notebook": "notebook",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/Notebook__images/Без названия.jpg"
+        },
+
+
+
+
+
+
+
+
+
+        
+
+        {
+            "id": 7,
+            "smartwatch": "smartwatch",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/SmartWatches/03.png"
+        },
+        {
+            "id": 8,
+            "smartwatch": "smartwatch",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/SmartWatches/images (1).jpg"
+        },
+        {
+            "id": 9,
+            "smartwatch": "smartwatch",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/SmartWatches/images (2).jpg"
+        },
+        {
+            "id": 10,
+            "smartwatch": "smartwatch",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/SmartWatches/images (3).jpg"
+        },
+        {
+            "id": 11,
+            "smartwatch": "smartwatch",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/SmartWatches/images (4).jpg"
+        },
+        {
+            "id": 12,
+            "smartwatch": "smartwatch",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/SmartWatches/images (5).jpg"
+        },
+        {
+            "id": 7,
+            "smartwatch": "smartwatch",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/SmartWatches/images (6).jpg"
+        },
+        {
+            "id": 8,
+            "smartwatch": "smartwatch",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/SmartWatches/images.jpg"
+        },
+        {
+            "id": 9,
+            "smartwatch": "smartwatch",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/SmartWatches/Без названия (1).jpg"
+        },
+        {
+            "id": 10,
+            "smartwatch": "smartwatch",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/SmartWatches/Без названия (2).jpg"
+        },
+        {
+            "id": 11,
+            "smartwatch": "smartwatch",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/SmartWatches/Без названия (3).jpg"
+        },
+        {
+            "id": 12,
+            "smartwatch": "smartwatch",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/SmartWatches/Без названия (4).jpg"
+        },
+        {
+            "id": 7,
+            "smartwatch": "smartwatch",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/SmartWatches/Без названия (5).jpg"
+        },
+        {
+            "id": 8,
+            "smartwatch": "smartwatch",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/SmartWatches/Без названия (6).jpg"
+        },
+        {
+            "id": 9,
+            "smartwatch": "smartwatch",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/SmartWatches/Без названия (7).jpg"
+        },
+        {
+            "id": 10,
+            "smartwatch": "smartwatch",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/SmartWatches/Без названия (8).jpg"
+        },
+        {
+            "id": 11,
+            "smartwatch": "smartwatch",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/SmartWatches/Без названия (9).jpg"
+        },
+        {
+            "id": 12,
+            "smartwatch": "smartwatch",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/SmartWatchesБез названия (10).jpg"
+        },
+        {
+            "id": 7,
+            "smartwatch": "smartwatch",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/SmartWatches/Без названия (11).jpg"
+        },
+        {
+            "id": 8,
+            "smartwatch": "smartwatch",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/SmartWatches/Без названия (12).jpg"
+        },
+        {
+            "id": 9,
+            "smartwatch": "smartwatch",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/SmartWatches/Без названия (13).jpg"
+        },
+        {
+            "id": 10,
+            "smartwatch": "smartwatch",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/SmartWatches/Без названия (14).jpg"
+        },
+        {
+            "id": 11,
+            "smartwatch": "smartwatch",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/SmartWatches/Без названия.jpg"
+        },
+
+
+
+
+
+
+
+
+
+
+        {
+            "id": 7,
+            "smartphone": "smartphone",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/SmartPhones__images/10.png"
+        },
+        {
+            "id": 8,
+            "smartphone": "smartphone",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/SmartPhones__images/61d4a0b38b51e20004664d44.png"
+        },
+        {
+            "id": 9,
+            "smartphone": "smartphone",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/SmartPhones__images/asus-smartphone-mobile-png.png"
+        },
+        {
+            "id": 10,
+            "smartphone": "smartphone",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/SmartPhones__images/image 22.png"
+        },
+        {
+            "id": 11,
+            "smartphone": "smartphone",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/SmartPhones__images/image 23.png"
+        },
+        {
+            "id": 12,
+            "smartphone": "smartphone",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/SmartPhones__images/image 32.png"
+        },
+        {
+            "id": 7,
+            "smartphone": "smartphone",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/SmartPhones__images/images (1).jpg"
+        },
+        {
+            "id": 8,
+            "smartphone": "smartphone",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/SmartPhones__images/images (2).jpg"
+        },
+        {
+            "id": 9,
+            "smartphone": "smartphone",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/SmartPhones__images/images (3).jpg"
+        },
+        {
+            "id": 10,
+            "smartphone": "smartphone",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/SmartPhones__images/images (4).jpg"
+        },
+        {
+            "id": 11,
+            "smartphone": "smartphone",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/SmartPhones__images/images (5).jpg"
+        },
+        {
+            "id": 12,
+            "smartphone": "smartphone",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/SmartPhones__images/images (6).jpg"
+        },
+        {
+            "id": 7,
+            "smartphone": "smartphone",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/SmartPhones__images/images (7).jpg"
+        },
+        {
+            "id": 8,
+            "smartphone": "smartphone",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/SmartPhones__images/images (8).jpg"
+        },
+        {
+            "id": 9,
+            "smartphone": "smartphone",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/SmartPhones__images/images (9).jpg"
+        },
+        {
+            "id": 10,
+            "smartphone": "smartphone",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/SmartPhones__images/images (10).jpg"
+        },
+        {
+            "id": 11,
+            "smartphone": "smartphone",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/SmartPhones__images/imgbin-feature-phone-smartphone-web-browser-android-mobile-phones-.jpg"
+        },
+        {
+            "id": 12,
+            "smartphone": "smartphone",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/SmartPhones__images/images.jpg"
+        },
+        {
+            "id": 7,
+            "smartphone": "smartphone",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/SmartPhones__images/imgbin-feature-phone-smartphone-web-browser-android-mobile-phones-smartphone-eTA4hRbatCanjjGqK9VA2JKwz.jpg"
+        },
+        {
+            "id": 8,
+            "smartphone": "smartphone",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/SmartPhones__images/lovepik-rhino-modeling-phone-png-image.png"
+        },
+        {
+            "id": 9,
+            "smartphone": "smartphone",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/SmartPhones__images/moto-g-5g-na-pdp-ecom-kv-render-86wb1pjl.png"
+        },
+        {
+            "id": 10,
+            "smartphone": "smartphone",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/SmartPhones__images/smartphone-feature-phone-mobile-phones-android-application-package-philips-hue-smartphone.jpg"
+        },
+        {
+            "id": 11,
+            "smartphone": "smartphone",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/SmartPhones__images/smasung__duos.jpg"
+        },
+
+
+
+
+
+
+
+
+
+        {
+            "id": 7,
+            "Prof__Phote__Cameras": "Prof__Phote__Cameras",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/Prof__Phote__Cameras/05.png"
+        },
+        {
+            "id": 8,
+            "Prof__Phote__Cameras": "Prof__Phote__Cameras",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/Prof__Phote__Cameras/images (1).jpg"
+        },
+        {
+            "id": 9,
+            "Prof__Phote__Cameras": "Prof__Phote__Cameras",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/Prof__Phote__Cameras/images (2).jpg"
+        },
+        {
+            "id": 10,
+            "Prof__Phote__Cameras": "Prof__Phote__Cameras",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/Prof__Phote__Cameras/iimages (3).jpg"
+        },
+        {
+            "id": 11,
+            "Prof__Phote__Cameras": "Prof__Phote__Cameras",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/Prof__Phote__Cameras/images (4).jpg"
+        },
+        {
+            "id": 12,
+            "Prof__Phote__Cameras": "Prof__Phote__Cameras",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/Prof__Phote__Cameras/images (5).jpg"
+        },
+        {
+            "id": 7,
+            "Prof__Phote__Cameras": "Prof__Phote__Cameras",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/Prof__Phote__Cameras/images (6).jpg"
+        },
+        {
+            "id": 8,
+            "Prof__Phote__Cameras": "Prof__Phote__Cameras",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/Prof__Phote__Cameras/images (7).jpg"
+        },
+        {
+            "id": 9,
+            "Prof__Phote__Cameras": "Prof__Phote__Cameras",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/Prof__Phote__Cameras/images (8).jpg"
+        },
+        {
+            "id": 10,
+            "Prof__Phote__Cameras": "Prof__Phote__Cameras",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/Prof__Phote__Cameras/images (9).jpg"
+        },
+        {
+            "id": 11,
+            "Prof__Phote__Cameras": "Prof__Phote__Cameras",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/Prof__Phote__Cameras/images (10).jpg"
+        },
+        {
+            "id": 12,
+            "Prof__Phote__Cameras": "Prof__Phote__Cameras",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/Prof__Phote__Cameras/images (11).jpg"
+        },
+        {
+            "id": 7,
+            "Prof__Phote__Cameras": "Prof__Phote__Cameras",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/Prof__Phote__Cameras/images (12).jpg"
+        },
+        {
+            "id": 8,
+            "Prof__Phote__Cameras": "Prof__Phote__Cameras",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/Prof__Phote__Cameras/images (13).jpg"
+        },
+        {
+            "id": 9,
+            "Prof__Phote__Cameras": "Prof__Phote__Cameras",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/Prof__Phote__Cameras/images (14).jpg"
+        },
+        {
+            "id": 10,
+            "Prof__Phote__Cameras": "Prof__Phote__Cameras",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/Prof__Phote__Cameras/images (16).jpg"
+        },
+        {
+            "id": 11,
+            "Prof__Phote__Cameras": "Prof__Phote__Cameras",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/Prof__Phote__Cameras/images (17).jpg"
+        },
+        {
+            "id": 12,
+            "Prof__Phote__Cameras": "Prof__Phote__Cameras",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/Prof__Phote__Cameras/images.jpg"
+        },
+        {
+            "id": 7,
+            "Prof__Phote__Cameras": "Prof__Phote__Cameras",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/Prof__Phote__Cameras/Без названия (1).jpg"
+        },
+        {
+            "id": 8,
+            "Prof__Phote__Cameras": "Prof__Phote__Cameras",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/Prof__Phote__Cameras/Без названия (2).jpg"
+        },
+        {
+            "id": 9,
+            "Prof__Phote__Cameras": "Prof__Phote__Cameras",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/Prof__Phote__Cameras/Без названия (3).jpg"
+        },
+        {
+            "id": 10,
+            "Prof__Phote__Cameras": "Prof__Phote__Cameras",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/Prof__Phote__Cameras/Без названия (4).jpg"
+        },
+        {
+            "id": 11,
+            "Prof__Phote__Cameras": "Prof__Phote__Cameras",
+            "electronics": "electronics",
+            "price": "$299.9",
+            "product_name": "best product",
+            "sale": "$11",
+            "img": "/images/Prof__Phote__Cameras/Без названия.jpg"
+        }
+    ],
+    "support": {
+        "url": "https://t.me/muzaffarbek1",
+        "text": "happy time on"
+    }
+}
