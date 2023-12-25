@@ -2,7 +2,6 @@
 
 import axios from 'axios';
 import Image from 'next/image';
-import { memo, useEffect } from 'react';
 
 const baseUrl = 'http://localhost:3000/api';
 async function getProducts() {
